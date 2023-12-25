@@ -1,0 +1,14 @@
+.heading{
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  margin-right: 980px;
+  text-decoration: underline;
+  border-bottom: 2px solid black; 
+  margin-bottom: 10px;
+  padding-top: 20px;
+}
+body{
+  overflow: hidden;
+}
+  
